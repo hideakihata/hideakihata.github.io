@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hideakihata.github.io/figure/apsec2017/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/section/abstract/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/photo/photo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/figure/vissoft2017/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/section/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/section/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/figure/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/photo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/section/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hideakihata.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

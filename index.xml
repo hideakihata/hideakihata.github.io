@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hideaki Hata | NAIST</title>
+    <link>https://hideakihata.github.io/</link>
+    <description>Recent content on Hideaki Hata | NAIST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hideakihata.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A topology of npm ecosystem</title>
+      <link>https://hideakihata.github.io/figure/apsec2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/figure/apsec2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract</title>
+      <link>https://hideakihata.github.io/section/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/section/abstract/</guid>
+      <description>I am an Assistant Professor in Graduate School of Information Science at Nara Institute of Science and Technology, Japan. I received M.Sc. Ph.D degrees in Graduate School of Information Science and Technology from Osaka University.</description>
+    </item>
+    
+    <item>
+      <title>photo</title>
+      <link>https://hideakihata.github.io/photo/photo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/photo/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarioLike game performance visualization</title>
+      <link>https://hideakihata.github.io/figure/vissoft2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/figure/vissoft2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New papers</title>
+      <link>https://hideakihata.github.io/section/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/section/news/</guid>
+      <description>Hideaki Hata, Mingyu Guo, and Ali Babar, Understanding the Heterogeneity of Contributors in Bug Bounty Programs, In Proc. of 11th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2017).
+ Nuttapon Lertwittayatrai, Raula Gaikovina Kula, Saya Onoue, Hideaki Hata, Arnon Rungsawang, Pattara Leelaprute, and Kenichi Matsumoto, Extracting Insights from the Topology of the Javascript Package Ecosystem, In Proc. of 24th Asia-Pacific Software Engineering Conference (APSEC2017). See Figure.</description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://hideakihata.github.io/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/service/</guid>
+      <description> Journal  Associate Editor  IEICE Transactions on Information and Systems (2017-)  Reviews  Journal of Systems and Software IEICE Transactions on Information and Systems IEEE Transactions on Services Computing   Conference  2018  APSEC (Local arrangement), SEmotion (PC member), IWESEP (Steering member)  2017  COMPSAC (PC member), SANER (ERA track review), APSEC (Short papers and posters track review), CHASE (PC member), SEmotion (PC member), IWESEP (Steering member), BCD (Publicity co-chairs and PC member)  2016  COMPSAC (PC member), SANER (Tool track review, ERA track review, and Local arrangement), MSR (PC member), CHASE (PC member), IWESEP (General chair)  2015  COMPSAC (PC member)  2014  COMPSAC (PC member), IWESEP (PC member), SERA (PC member)  2013  IWESEP (Tutorial chair and PC member)  2012  IWESEP (PC member)  2011  IWESEP (PC member)  2010  IWESEP (PC member)   </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://hideakihata.github.io/section/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/section/publications/</guid>
+      <description>Conference Proceedings  Katsuya Ogami, Raula Gaikovina Kula, Hideaki Hata, Takashi Ishio, and Kenichi Matsumoto, Using High-Rising Cities to Visualize Performance in Real-Time, In Proc. of 5th IEEE Working Conference on Software Visualization (VISSOFT 2017), 33-42, September 2017. See Figure, Tool, Slides, Video 1, and Video 2.
+ Pannavat Terdchanakul, Hideaki Hata, Passakorn Phannachitta, and Kenichi Matsumoto, Bug or Not? Bug Report Classification using N-Gram Idf, In Proc. of 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME 2017), pp.</description>
+    </item>
+    
+  </channel>
+</rss>
