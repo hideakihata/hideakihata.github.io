@@ -20,13 +20,14 @@
     </item>
     
     <item>
-      <title>New papers</title>
+      <title>Recent papers</title>
       <link>https://hideakihata.github.io/section/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/section/news/</guid>
-      <description>Hideaki Hata, Mingyu Guo, and Ali Babar, Understanding the Heterogeneity of Contributors in Bug Bounty Programs, In Proc. of 11th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2017).
- Nuttapon Lertwittayatrai, Raula Gaikovina Kula, Saya Onoue, Hideaki Hata, Arnon Rungsawang, Pattara Leelaprute, and Kenichi Matsumoto, Extracting Insights from the Topology of the Javascript Package Ecosystem, In Proc. of 24th Asia-Pacific Software Engineering Conference (APSEC2017). See Figure.</description>
+      <description>Nuttapon Lertwittayatrai, Raula Gaikovina Kula, Saya Onoue, Hideaki Hata, Arnon Rungsawang, Pattara Leelaprute, and Kenichi Matsumoto, Extracting Insights from the Topology of the Javascript Package Ecosystem, In Proc. of 24th Asia-Pacific Software Engineering Conference (APSEC2017). See [Figure].
+ Koji Kitagawa, Mingyu Guo, Kiminao Kogiso, and Hideaki Hata, Utility Design for Two-Player Normal-Form Games, In Proc. of 2017 Asian Control Conference (ASCC 2017).
+ Hideaki Hata, Mingyu Guo, and Ali Babar, Understanding the Heterogeneity of Contributors in Bug Bounty Programs, In Proc.</description>
     </item>
     
     <item>
@@ -35,8 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/section/publications/</guid>
-      <description>Conference Proceedings  Katsuya Ogami, Raula Gaikovina Kula, Hideaki Hata, Takashi Ishio, and Kenichi Matsumoto, Using High-Rising Cities to Visualize Performance in Real-Time, In Proc. of 5th IEEE Working Conference on Software Visualization (VISSOFT 2017), 33-42, September 2017. See Figure, Tool, Slides, Video 1, and Video 2.
- Pannavat Terdchanakul, Hideaki Hata, Passakorn Phannachitta, and Kenichi Matsumoto, Bug or Not? Bug Report Classification using N-Gram Idf, In Proc. of 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME 2017), pp.</description>
+      <description>Conference Proceedings  Keitaro Nakasai, Hideaki Hata, Saya Onoue, and Kenichi Matsumoto, Analysis of Donations in Eclipse Project, In Proc. of 8th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2017), pp. 18-22, March 2017.
+ Tetsuya Kanda, Mingyu Guo, Hideaki Hata, and Kenichi Matsumoto, Towards Understanding an Open-Source Bounty: Analysis of Bountysource, In Proc. of 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2017), pp.</description>
     </item>
     
   </channel>
