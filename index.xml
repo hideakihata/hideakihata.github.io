@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hideaki Hata | NAIST</title>
+    <title>Hideaki Hata</title>
     <link>https://hideakihata.github.io/</link>
-    <description>Recent content on Hideaki Hata | NAIST</description>
+    <description>Recent content on Hideaki Hata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,78 +11,35 @@
     
     
     <item>
-      <title>A topology of npm ecosystem</title>
-      <link>https://hideakihata.github.io/figure/apsec2017/</link>
+      <title>Journal</title>
+      <link>https://hideakihata.github.io/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hideakihata.github.io/figure/apsec2017/</guid>
-      <description></description>
+      <guid>https://hideakihata.github.io/publications/journal/</guid>
+      <description>Keigo Fukutani, Akito Monden, Yucel Zeynep, and Hideaki Hata, An Attempt to Line-Wise Bug Prediction Using Moving Window, Computer Software, Vol. 35, No. 4, pp. 122-128, November 2018. (in Japanese)
+ Nachai Limsettho, Kwabena Ebo Bennin, Jacky Keung, Hideaki Hata, and Kenichi Matsumoto, Cross Project Defect Prediction Using Class Distribution Estimation and Oversampling, Information and Software Technology, volume 100, pages 87-102 August 2018. (JCR: 2.694 in 2016)
+ Nachai Limsettho, Hideaki Hata, Akito Monden, and Kenichi Matsumoto, Unsupervised Bug Report Categorization Using Clustering and Labeling Algorithm, International Journal of Software Engineering and Knowledge Engineering (IJSEKE), Vol.</description>
     </item>
     
     <item>
-      <title>Abstract</title>
-      <link>https://hideakihata.github.io/section/abstract/</link>
+      <title>Conference Proceedings</title>
+      <link>https://hideakihata.github.io/publications/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hideakihata.github.io/section/abstract/</guid>
-      <description>I am an Assistant Professor in Graduate School of Information Science at Nara Institute of Science and Technology, Japan. I am a member of Software Engineering Laboratory. I received M.Sc. Ph.D degrees in Graduate School of Information Science and Technology from Osaka University.</description>
+      <guid>https://hideakihata.github.io/publications/conference/</guid>
+      <description>Daiki Takata, Abdulaziz Alhefdhi, Maipradit Rungroj, Hideaki Hata, Hoa Khanh Dam, Takashi Ishio, and Kenichi Matsumoto, Catalogen: Generating Catalogs of Code Examples Collected from OSS, In Proc. of 3rd International Workshop on Dynamic Software Documentation (DySDoc3), pages 11-12, September 2018. (2018 Docgen Challenge: Challenge Runner-Ups - Usefulness Category)
+ Keitaro Nakasai, Masateru Tsunoda, Hideaki Hata, and Kenichi Matsumoto, Identifying Spoofing Accounts on Twitter Based on Relationships of Accounts, In Proc.</description>
     </item>
     
     <item>
-      <title>photo</title>
-      <link>https://hideakihata.github.io/photo/photo/</link>
+      <title>Others</title>
+      <link>https://hideakihata.github.io/publications/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hideakihata.github.io/photo/photo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent papers</title>
-      <link>https://hideakihata.github.io/section/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hideakihata.github.io/section/news/</guid>
-      <description>Koji Kitagawa, Mingyu Guo, Kiminao Kogiso, and Hideaki Hata, Utility Design for Two-Player Normal-Form Games, In Proc. of 2017 Asian Control Conference (ASCC 2017).
- Nuttapon Lertwittayatrai, Raula Gaikovina Kula, Saya Onoue, Hideaki Hata, Arnon Rungsawang, Pattara Leelaprute, and Kenichi Matsumoto, Extracting Insights from the Topology of the Javascript Package Ecosystem, In Proc. of 24th Asia-Pacific Software Engineering Conference (APSEC2017), pp. 298-307, December 2017. See [Figure].
- Hideaki Hata, Mingyu Guo, and Ali Babar, Understanding the Heterogeneity of Contributors in Bug Bounty Programs, In Proc.</description>
-    </item>
-    
-    <item>
-      <title>Why do you contribute to bug bounty programs?</title>
-      <link>https://hideakihata.github.io/figure/esem2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hideakihata.github.io/figure/esem2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Activities</title>
-      <link>https://hideakihata.github.io/service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hideakihata.github.io/service/</guid>
-      <description> Journal  Associate Editor  IEICE Transactions on Information and Systems (2017-)  Reviews  Journal of Systems and Software IEICE Transactions on Information and Systems IEEE Transactions on Services Computing   Conference  2018  APSEC (Local arrangement), SEmotion (PC member), IWESEP (Steering member)  2017  COMPSAC (PC member), SANER (ERA track review), APSEC (Short papers and posters track review), CHASE (PC member), SEmotion (PC member), IWESEP (Steering member), BCD (Publicity co-chairs and PC member)  2016  COMPSAC (PC member), SANER (Tool track review, ERA track review, and Local arrangement), MSR (PC member), CHASE (PC member), IWESEP (General chair)  2015  COMPSAC (PC member)  2014  COMPSAC (PC member), IWESEP (PC member), SERA (PC member)  2013  IWESEP (Tutorial chair and PC member)  2012  IWESEP (PC member)  2011  IWESEP (PC member)  2010  IWESEP (PC member)   </description>
-    </item>
-    
-    <item>
-      <title>MarioLike game performance visualization</title>
-      <link>https://hideakihata.github.io/figure/vissoft2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hideakihata.github.io/figure/vissoft2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://hideakihata.github.io/section/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hideakihata.github.io/section/publications/</guid>
-      <description>Conference Proceedings  Keitaro Nakasai, Hideaki Hata, Saya Onoue, and Kenichi Matsumoto, Analysis of Donations in Eclipse Project, In Proc. of 8th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2017), pp. 18-22, March 2017.
- Tetsuya Kanda, Mingyu Guo, Hideaki Hata, and Kenichi Matsumoto, Towards Understanding an Open-Source Bounty: Analysis of Bountysource, In Proc. of 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2017), pp.</description>
+      <guid>https://hideakihata.github.io/publications/others/</guid>
+      <description>Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Impact of Donation Badges on Response Time for Eclipse Bug Reports, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
+ Daiki Takata, Hideaki Hata, and Kenichi Matsumoto, Bridging the Gap between Floss Development and Online Judges, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
+ Yusuf Sulistyo Nugroho, Hideaki Hata, and Kenichi Matsumoto, Lets Put &amp;ndash;Histogram to Git Diff When Mining Code Histories, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.</description>
     </item>
     
   </channel>
