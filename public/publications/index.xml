@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Hideaki Hata</title>
+    <link>https://hideakihata.github.io/publications/</link>
+    <description>Recent content in Publications on Hideaki Hata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hideakihata.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Journal</title>
+      <link>https://hideakihata.github.io/publications/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/publications/journal/</guid>
+      <description>Keigo Fukutani, Akito Monden, Yucel Zeynep, and Hideaki Hata, An Attempt to Line-Wise Bug Prediction Using Moving Window, Computer Software, Vol. 35, No. 4, pp. 122-128, November 2018. (in Japanese)
+ Nachai Limsettho, Kwabena Ebo Bennin, Jacky Keung, Hideaki Hata, and Kenichi Matsumoto, Cross Project Defect Prediction Using Class Distribution Estimation and Oversampling, Information and Software Technology, volume 100, pages 87-102 August 2018. (JCR: 2.694 in 2016)
+ Nachai Limsettho, Hideaki Hata, Akito Monden, and Kenichi Matsumoto, Unsupervised Bug Report Categorization Using Clustering and Labeling Algorithm, International Journal of Software Engineering and Knowledge Engineering (IJSEKE), Vol.</description>
+    </item>
+    
+    <item>
+      <title>Conference Proceedings</title>
+      <link>https://hideakihata.github.io/publications/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/publications/conference/</guid>
+      <description>Daiki Takata, Abdulaziz Alhefdhi, Maipradit Rungroj, Hideaki Hata, Hoa Khanh Dam, Takashi Ishio, and Kenichi Matsumoto, Catalogen: Generating Catalogs of Code Examples Collected from OSS, In Proc. of 3rd International Workshop on Dynamic Software Documentation (DySDoc3), pages 11-12, September 2018. (2018 Docgen Challenge: Challenge Runner-Ups - Usefulness Category)
+ Keitaro Nakasai, Masateru Tsunoda, Hideaki Hata, and Kenichi Matsumoto, Identifying Spoofing Accounts on Twitter Based on Relationships of Accounts, In Proc.</description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://hideakihata.github.io/publications/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hideakihata.github.io/publications/others/</guid>
+      <description>Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Impact of Donation Badges on Response Time for Eclipse Bug Reports, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
+ Daiki Takata, Hideaki Hata, and Kenichi Matsumoto, Bridging the Gap between Floss Development and Online Judges, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
+ Yusuf Sulistyo Nugroho, Hideaki Hata, and Kenichi Matsumoto, Lets Put &amp;ndash;Histogram to Git Diff When Mining Code Histories, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.</description>
+    </item>
+    
+  </channel>
+</rss>
