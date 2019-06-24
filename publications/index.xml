@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/publications/journal/</guid>
-      <description>Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Are Donation Badges Appealing? A Case Study of Developer Responses to Eclipse Bug Reports, IEEE Software, Special Issue on Managing Software Platforms and Ecosystems, Vol. 36, No. 3, pp. 22-27, May 2019.
- Katsuya Ogami, Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Heijo: A Real-Time Profiler for Java and Android Applications with City-Like Visualization of Dynamic Code Executions, Computer Software, Vol. 36, No.</description>
+      <description>Katsuya Ogami, Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Heijo: A Real-Time Profiler for Java and Android Applications with City-Like Visualization of Dynamic Code Executions, Computer Software, Vol. 36, No. 2, pp. 93-105, April 2019. (in Japanese)
+ Kyohei Uemura, Keitaro Nakasai, Katsuya Ogami, Hideaki Hata, Tomohiro Ichinose, Kenichi Matsumoto, and Hajimu Iida, Codosseum : A Web Service for Supporting Development and Analysis of Open Source Software Projects, Computer Software, Vol.</description>
     </item>
     
     <item>
@@ -26,8 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/publications/conference/</guid>
-      <description>Supatsara Wattanakriengkrai, Rungroj Maipradit, Hideaki Hata, Morakot Choetkiertikul, Thanwadee Sunetnanta, and Kenichi Matsumoto, Identifying Design and Requirement Self-Admitted Technical Debt Using N-Gram IDF, In Proc. of 9th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), pp. 7-12, December 2018. (Best Research Paper Award)
- Abdulaziz Alhefdhi, Hoa Dam, Hideaki Hata, and Aditya Ghose, Generating Pseudo-Code from Source Code Using Deep Learning, In Proc. of 25th Australasian Software Engineering Conference (ASWEC 2018), pp.</description>
+      <description>Yoshiharu Ikutani, Nishanth Koganti, Hideaki Hata, Takatomi Kubo, and Kenichi Matsumoto, Toward Imitating Visual Attention of Experts in Software Development Tasks, In Proc. of 6th International Workshop on Eye Movements in Programming (EMIP 2019), pp. 33-36, May 2019.
+ Supatsara Wattanakriengkrai, Rungroj Maipradit, Hideaki Hata, Morakot Choetkiertikul, Thanwadee Sunetnanta, and Kenichi Matsumoto, Identifying Design and Requirement Self-Admitted Technical Debt Using N-Gram IDF, In Proc. of 9th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), pp.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <guid>https://hideakihata.github.io/publications/others/</guid>
       <description>Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Impact of Donation Badges on Response Time for Eclipse Bug Reports, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
  Daiki Takata, Hideaki Hata, and Kenichi Matsumoto, Bridging the Gap between Floss Development and Online Judges, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
- Yusuf Sulistyo Nugroho, Hideaki Hata, and Kenichi Matsumoto, Lets Put &amp;ndash;Histogram to Git Diff When Mining Code Histories, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.</description>
+ Yusuf Sulistyo Nugroho, Hideaki Hata, and Kenichi Matsumoto, Let&amp;rsquo;s Put &amp;ndash;Histogram to Git Diff When Mining Code Histories, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.</description>
     </item>
     
   </channel>
