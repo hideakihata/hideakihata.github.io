@@ -26,8 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/publications/conference/</guid>
-      <description>Yoshiharu Ikutani, Nishanth Koganti, Hideaki Hata, Takatomi Kubo, and Kenichi Matsumoto, Toward Imitating Visual Attention of Experts in Software Development Tasks, In Proc. of 6th International Workshop on Eye Movements in Programming (EMIP 2019), pp. 33-36, May 2019.
- Supatsara Wattanakriengkrai, Rungroj Maipradit, Hideaki Hata, Morakot Choetkiertikul, Thanwadee Sunetnanta, and Kenichi Matsumoto, Identifying Design and Requirement Self-Admitted Technical Debt Using N-Gram IDF, In Proc. of 9th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), pp.</description>
+      <description>Supatsara Wattanakriengkrai, Thanwadee Sunetnanta, and Hideaki Hata, Automatic Classifying Self-Admitted Technical Debt Using N-Gram IDF, In Proc. of 26th Asia-Pacific Software Engineering Conference (APSEC 2019), pp. 316-322, December 2019.
+ Keitaro Nakasai, Yoshiharu Ikutani, Daiki Takata, Hideaki Hata, and Kenichi Matsumoto, Toward Sustainable Communities with a Community Currency &amp;ndash; A Study in Car Sharing, In Proc. of 20th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD 2019), pp.</description>
     </item>
     
     <item>
@@ -36,9 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/publications/others/</guid>
-      <description>Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Impact of Donation Badges on Response Time for Eclipse Bug Reports, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
- Daiki Takata, Hideaki Hata, and Kenichi Matsumoto, Bridging the Gap between Floss Development and Online Judges, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.
- Yusuf Sulistyo Nugroho, Hideaki Hata, and Kenichi Matsumoto, Let&amp;rsquo;s Put &amp;ndash;Histogram to Git Diff When Mining Code Histories, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.</description>
+      <description>Yoshiharu Ikutani, Takatomi Kubo, Satoshi Nishida, Hideaki Hata, Kenichi Matsumoto, Kazushi Ikeda, and Shinji Nishimoto, Toward Identifying the Neural Basis of Programming Expertise: an Fmri Study with Expert Programmers, APSIPA BioSiPS Workshop 2019, Poster session, August 2019.
+ Keitaro Nakasai, Hideaki Hata, and Kenichi Matsumoto, Impact of Donation Badges on Response Time for Eclipse Bug Reports, 9th International Workshop on Empirical Software Engineering in Practice (IWESEP 2018), Poster session, December 2018.</description>
     </item>
     
   </channel>
