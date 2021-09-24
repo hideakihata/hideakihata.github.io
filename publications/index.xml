@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/publications/journal/</guid>
-      <description>Yoshiki Higo, Shinpei Hayashi, Hideaki Hata, and Meiyappan Nagappan, Ammonia: An Approach for Deriving Project Specific Bug Patterns, Empirical Software Engineering, Vol. 25, No. 3, pp. 1951-1979, May 2020. [Tool] and [Video] (JCR: 2.522 in 2020) (Journal First at ICSE 2021)
-  Yusuf Sulistyo Nugroho, Hideaki Hata, and Kenichi Matsumoto, How Different Are Different Diff Algorithms in Git?, Empirical Software Engineering, Vol. 25, No. 1, pp. 790-823, January 2020.</description>
+      <description>Rungroj Maipradit, Christoph Treude, Hideaki Hata, and Kenichi Matsumoto, Wait for It: Identifying On-Hold Self-Admitted Technical Debt, Empirical Software Engineering, Vol. 25, No. 5, pp. 3770-3798, September 2020. [Dataset], [Slides], and [Video] (JCR: 2.522 in 2020) (Journal First at ICSE 2021)
+  Yoshiki Higo, Shinpei Hayashi, Hideaki Hata, and Meiyappan Nagappan, Ammonia: An Approach for Deriving Project Specific Bug Patterns, Empirical Software Engineering, Vol. 25, No. 3, pp.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hideakihata.github.io/publications/conference/</guid>
-      <description>Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Christoph Treude, Research Artifact: The Potential of Meta-Maintenance on GitHub, In Proc. of 43rd IEEE/ACM International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2021), pp. 192-193, May 2021.
+      <description>Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, and Christoph Treude, Research Artifact: The Potential of Meta-Maintenance on GitHub, In Proc. of 43rd IEEE/ACM International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2021), pp. 192-193, May 2021.
   Rungroj Maipradit, Bin Lin, Csaba Nagy, Gabriele Bavota, Michele Lanza, Hideaki Hata, and Kenichi Matsumoto, Automated Identification of On-hold Self-admitted Technical Debt, In Proc. of 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2020), pp.</description>
     </item>
     
