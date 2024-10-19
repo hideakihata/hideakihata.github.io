@@ -4,7 +4,7 @@
     <title>Hideaki Hata</title>
     <link>https://hideakihata.github.io/</link>
     <description>Recent content on Hideaki Hata</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://hideakihata.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,21 +12,21 @@
       <link>https://hideakihata.github.io/publications/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hideakihata.github.io/publications/journal/</guid>
-      <description>Tao Xiao, Sebastian Baltes, Hideaki Hata, Christoph Treude, Raula Gaikovina Kula, Takashi Ishio, and Kenichi Matsumoto, 18 Million Links in Commit Messages: Purpose, Evolution, and Decay, Empirical Software Engineering, Vol. 28, Issue 4, Article No. 91, May 2023. [Dataset] (JCR: 3.5 in 2023).&#xA;Hideaki Hata, Yusuke Hara, and Taiki Todo, Applications of Multi-Agent Systems Research for Transportation Systems, SYSTEMS, CONTROL AND INFORMATION, Vol. 67, Issue 1, pp. 18-24, January 2023.</description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tao Xiao, Sebastian Baltes, Hideaki Hata, Christoph Treude, Raula Gaikovina Kula, Takashi Ishio, and Kenichi Matsumoto, &lt;a href=&#34;https://arxiv.org/abs/2305.16591&#34;&gt;&lt;strong&gt;18 Million Links in Commit Messages: Purpose, Evolution, and Decay&lt;/strong&gt;&lt;/a&gt;, Empirical Software Engineering, Vol. 28, Issue 4, Article No. 91, May 2023. [&lt;a href=&#34;https://github.com/NAIST-SE/18MillionLinksInCommitMessages&#34;&gt;Dataset&lt;/a&gt;] &lt;em&gt;(JCR: 3.5 in 2023)&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hideaki Hata, Yusuke Hara, and Taiki Todo, &lt;a href=&#34;https://www.jstage.jst.go.jp/article/isciesci/67/1/67_18/_article/-char/en&#34;&gt;&lt;strong&gt;Applications of Multi-Agent Systems Research for Transportation Systems&lt;/strong&gt;&lt;/a&gt;, SYSTEMS, CONTROL AND INFORMATION, Vol. 67, Issue 1, pp. 18-24, January 2023. (in Japanese)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conference</title>
       <link>https://hideakihata.github.io/publications/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hideakihata.github.io/publications/conference/</guid>
-      <description>Christoph Treude and Hideaki Hata, She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models, In Proc. of 20th International Conference on Mining Software Repositories (MSR 2023), pp. 624-629, May 2023. [Dataset] (Acceptance rate: 37.4%)&#xA;Dong Wang, Tao Xiao, Christoph Treude, Raula Gaikovina Kula, Hideaki Hata, and Yasutaka Kamei, Understanding the Role of Images on Stack Overflow, In Proc. of 20th International Conference on Mining Software Repositories (MSR 2023), pp.</description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Christoph Treude and Hideaki Hata, &lt;a href=&#34;https://arxiv.org/abs/2303.10131&#34;&gt;&lt;strong&gt;She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models&lt;/strong&gt;&lt;/a&gt;, In Proc. of 20th International Conference on Mining Software Repositories (MSR 2023), pp. 624-629, May 2023. [&lt;a href=&#34;https://doi.org/10.5281/zenodo.7745437&#34;&gt;Dataset&lt;/a&gt;] &lt;em&gt;(Acceptance rate: 37.4%)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dong Wang, Tao Xiao, Christoph Treude, Raula Gaikovina Kula, Hideaki Hata, and Yasutaka Kamei, &lt;a href=&#34;https://arxiv.org/abs/2303.15684&#34;&gt;&lt;strong&gt;Understanding the Role of Images on Stack Overflow&lt;/strong&gt;&lt;/a&gt;, In Proc. of 20th International Conference on Mining Software Repositories (MSR 2023), pp. 377-388, May 2023. [&lt;a href=&#34;https://anonymous.4open.science/r/SOImages/&#34;&gt;Dataset&lt;/a&gt;] &lt;em&gt;(Acceptance rate: 37.4%)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Others</title>
       <link>https://hideakihata.github.io/publications/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hideakihata.github.io/publications/others/</guid>
-      <description>Daniel Russo, Sebastian Baltes, Niels van Berkel, Paris Avgeriou, Fabio Calefato, Beatriz Cabrero-Daniel, Gemma Catolino, Jürgen Cito, Neil Ernst, Thomas Fritz, Hideaki Hata, Reid Holmes, Maliheh Izadi, Foutse Khomh, Mikkel Baun Kjærgaard, Grischa Liebel, Alberto Lluch Lafuente, Stefano Lambiase, Walid Maalej, Gail Murphy, Nils Brede Moe, Gabrielle O&amp;rsquo;Brien, Elda Paja, Mauro Pezzè, John Stouby Persson, Rafael Prikladnicki, Paul Ralph, Martin Robillard, Thiago Rocha Silva, Klaas-Jan Stol, Margaret-Anne Storey, Viktoria Stray, Paolo Tell, Christoph Treude, Bogdan Vasilescu, Generative AI in Software Engineering Must Be Human-Centered: The Copenhagen Manifesto, Journal of Systems and Software, Volume 216, 112115, October 2024.</description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Daniel Russo, Sebastian Baltes, Niels van Berkel, Paris Avgeriou, Fabio Calefato, Beatriz Cabrero-Daniel, Gemma Catolino, Jürgen Cito, Neil Ernst, Thomas Fritz, Hideaki Hata, Reid Holmes, Maliheh Izadi, Foutse Khomh, Mikkel Baun Kjærgaard, Grischa Liebel, Alberto Lluch Lafuente, Stefano Lambiase, Walid Maalej, Gail Murphy, Nils Brede Moe, Gabrielle O&amp;rsquo;Brien, Elda Paja, Mauro Pezzè, John Stouby Persson, Rafael Prikladnicki, Paul Ralph, Martin Robillard, Thiago Rocha Silva, Klaas-Jan Stol, Margaret-Anne Storey, Viktoria Stray, Paolo Tell, Christoph Treude, Bogdan Vasilescu, &lt;a href=&#34;https://doi.org/10.5281/zenodo.11470865&#34;&gt;&lt;strong&gt;Generative AI in Software Engineering Must Be Human-Centered: The Copenhagen Manifesto&lt;/strong&gt;&lt;/a&gt;, Journal of Systems and Software, Volume 216, 112115, October 2024.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
