@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hideaki Hata</title>
-    <link>https://hideakihata.github.io/</link>
-    <description>Recent content on Hideaki Hata</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://hideakihata.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Journal</title>
-      <link>https://hideakihata.github.io/publications/journal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hideakihata.github.io/publications/journal/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Zhili Zeng, Tao Xiao, Maxime Lamothe, Hideaki Hata, and Shane McIntosh, &lt;a href=&#34;https://rebels.cs.uwaterloo.ca/papers/ieeesw2024_zeng.pdf&#34;&gt;&lt;strong&gt;How Trustworthy is Your CI Accelerator? A Comparison of the Trustworthiness of CI Acceleration Products&lt;/strong&gt;&lt;/a&gt;, IEEE Software, Vol. 39, Issue 6, pp. 82-90, November 2024. &lt;em&gt;(JCR: 3.3 in 2023)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tao Xiao, Hideaki Hata, Christoph Treude, and Kenichi Matsumoto, &lt;a href=&#34;https://doi.org/10.1145/3643773&#34;&gt;&lt;strong&gt;Generative AI for Pull Request Descriptions: Adoption, Impact, and Developer Interventions&lt;/strong&gt;&lt;/a&gt;, Proceedings of the ACM on Software Engineering, Vol. 1, Issue FSE, Article No. 47, July 2024. [&lt;a href=&#34;https://github.com/NAIST-SE/CopilotForPRsEarlyAdoption&#34;&gt;Dataset&lt;/a&gt;] and [&lt;a href=&#34;https://speakerdeck.com/taoxiaomark/generative-ai-for-pull-request-descriptions-adoption-impact-and-developer-interventions&#34;&gt;Slides&lt;/a&gt;] &lt;em&gt;(Acceptance rate: 25.5%)&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Conference</title>
-      <link>https://hideakihata.github.io/publications/conference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hideakihata.github.io/publications/conference/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Youmei Fan, Dong Wang, Supatsara Wattanakriengkrai, Hathaichanok Damrongsiri, Christoph Treude, Hideaki Hata, and Raula Gaikovina Kula, &lt;a href=&#34;https://arxiv.org/abs/2401.16715&#34;&gt;&lt;strong&gt;Going Viral: Case Studies on the Impact of Protestware&lt;/strong&gt;&lt;/a&gt;, In Proc. of 46th IEEE/ACM International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2024), pp. 308–309, April 2024.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Youmei Fan, Tao Xiao, Hideaki Hata, Christoph Treude, and Kenichi Matsumoto, &lt;a href=&#34;https://arxiv.org/abs/2401.02755&#34;&gt;&lt;strong&gt;&amp;ldquo;My GitHub Sponsors profile is live!” Investigating the Impact of Twitter/X Mentions on GitHub Sponsors&lt;/strong&gt;&lt;/a&gt;, In Proc. of 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024), pp. 2353-2364, April 2024. [&lt;a href=&#34;https://github.com/NAIST-SE/GHSponsorsX&#34;&gt;Dataset&lt;/a&gt;] and [&lt;a href=&#34;https://speakerdeck.com/youmeif/x-mentions-on-github-sponsors&#34;&gt;Slides&lt;/a&gt;] &lt;em&gt;(Acceptance rate: 22.3%)&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Others</title>
-      <link>https://hideakihata.github.io/publications/others/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hideakihata.github.io/publications/others/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Christoph Treude, Youmei Fan, Tao Xiao, and Hideaki Hata, &lt;strong&gt;Harmonized Coding with AI: LLMs for Qualitative Analysis in Software Engineering Research&lt;/strong&gt;, 22nd International Conference on Mining Software Repositories (MSR), Tutorials, April 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Daniel Russo, Sebastian Baltes, Niels van Berkel, Paris Avgeriou, Fabio Calefato, Beatriz Cabrero-Daniel, Gemma Catolino, Jürgen Cito, Neil Ernst, Thomas Fritz, Hideaki Hata, Reid Holmes, Maliheh Izadi, Foutse Khomh, Mikkel Baun Kjærgaard, Grischa Liebel, Alberto Lluch Lafuente, Stefano Lambiase, Walid Maalej, Gail Murphy, Nils Brede Moe, Gabrielle O&amp;rsquo;Brien, Elda Paja, Mauro Pezzè, John Stouby Persson, Rafael Prikladnicki, Paul Ralph, Martin Robillard, Thiago Rocha Silva, Klaas-Jan Stol, Margaret-Anne Storey, Viktoria Stray, Paolo Tell, Christoph Treude, and Bogdan Vasilescu, &lt;a href=&#34;https://doi.org/10.5281/zenodo.11470865&#34;&gt;&lt;strong&gt;Generative AI in Software Engineering Must Be Human-Centered: The Copenhagen Manifesto&lt;/strong&gt;&lt;/a&gt;, Journal of Systems and Software, Volume 216, 112115, October 2024.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hideaki Hata</title>
+		<link>https://hideakihata.github.io/</link>
+		<description>Recent content on Hideaki Hata</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://hideakihata.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Journal</title>
+				<link>https://hideakihata.github.io/publications/journal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://hideakihata.github.io/publications/journal/</guid>
+				<description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Youmei Fan, Dong Wang, Supatsara Wattanakriengkrai, Hathaichanok Damrongsiri, Christoph Treude, Hideaki Hata, and Raula Gaikovina Kula, &lt;a href=&#34;https://doi.org/10.1007/s10664-024-10599-6&#34;&gt;&lt;strong&gt;Developer Reactions to Protestware in Open Source Software: The cases of color.js and es5.ext&lt;/strong&gt;&lt;/a&gt;, Empirical Software Engineering, Vol 30, Issue 2, Article No. 56, January 2025. [&lt;a href=&#34;https://zenodo.org/records/13927232&#34;&gt;Dataset&lt;/a&gt;] &lt;em&gt;(JCR: 3.4 in 2025)&lt;/em&gt; &lt;em&gt;(Journal First at ICSE 2026)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Zhili Zeng, Tao Xiao, Maxime Lamothe, Hideaki Hata, and Shane McIntosh, &lt;a href=&#34;https://rebels.cs.uwaterloo.ca/papers/ieeesw2024_zeng.pdf&#34;&gt;&lt;strong&gt;How Trustworthy is Your CI Accelerator? A Comparison of the Trustworthiness of CI Acceleration Products&lt;/strong&gt;&lt;/a&gt;, IEEE Software, Vol. 39, Issue 6, pp. 82-90, November 2024. &lt;em&gt;(JCR: 3.0 in 2024)&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Conference</title>
+				<link>https://hideakihata.github.io/publications/conference/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://hideakihata.github.io/publications/conference/</guid>
+				<description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Marc Cheong, Sankwi Abuzo, Hideaki Hata, Priscilla Kevin, Raula Gaikovina Kula, Winifred Kula, Benson Mirou, Christoph Treude, and Dong Wang, &lt;a href=&#34;https://arxiv.org/abs/2501.09482&#34;&gt;&lt;strong&gt;Building BRIDGES across Papua New Guinea&amp;rsquo;s Digital Divide in Growing the ICT Industry&lt;/strong&gt;&lt;/a&gt;, In Proc. of 2025 IEEE/ACM Symposium on Software Engineering in the Global South (SEiGS 2025), pp. 35-40, April 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Youmei Fan, Dong Wang, Supatsara Wattanakriengkrai, Hathaichanok Damrongsiri, Christoph Treude, Hideaki Hata, and Raula Gaikovina Kula, &lt;a href=&#34;https://arxiv.org/abs/2401.16715&#34;&gt;&lt;strong&gt;Going Viral: Case Studies on the Impact of Protestware&lt;/strong&gt;&lt;/a&gt;, In Proc. of 46th IEEE/ACM International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2024), pp. 308–309, April 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Others</title>
+				<link>https://hideakihata.github.io/publications/others/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://hideakihata.github.io/publications/others/</guid>
+				<description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Christoph Treude, Youmei Fan, Tao Xiao, and Hideaki Hata, &lt;strong&gt;Harmonized Coding with AI: LLMs for Qualitative Analysis in Software Engineering Research&lt;/strong&gt;, 22nd International Conference on Mining Software Repositories (MSR), Tutorials, April 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Daniel Russo, Sebastian Baltes, Niels van Berkel, Paris Avgeriou, Fabio Calefato, Beatriz Cabrero-Daniel, Gemma Catolino, Jürgen Cito, Neil Ernst, Thomas Fritz, Hideaki Hata, Reid Holmes, Maliheh Izadi, Foutse Khomh, Mikkel Baun Kjærgaard, Grischa Liebel, Alberto Lluch Lafuente, Stefano Lambiase, Walid Maalej, Gail Murphy, Nils Brede Moe, Gabrielle O&amp;rsquo;Brien, Elda Paja, Mauro Pezzè, John Stouby Persson, Rafael Prikladnicki, Paul Ralph, Martin Robillard, Thiago Rocha Silva, Klaas-Jan Stol, Margaret-Anne Storey, Viktoria Stray, Paolo Tell, Christoph Treude, and Bogdan Vasilescu, &lt;a href=&#34;https://doi.org/10.5281/zenodo.11470865&#34;&gt;&lt;strong&gt;Generative AI in Software Engineering Must Be Human-Centered: The Copenhagen Manifesto&lt;/strong&gt;&lt;/a&gt;, Journal of Systems and Software, Volume 216, 112115, October 2024.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
